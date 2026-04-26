@@ -1,6 +1,6 @@
 {
   "test_link": {
-    "link": null
+    "link": "https://colab.research.google.com/drive/1lPanoqgintUzxVDndA0wKs-JnHd67otV#scrollTo=CpCm24-RrpuA"
   },
   "test_preprocess": {
     "vocab_length": 1804
@@ -13,9 +13,9 @@
   },
   "test_eval": {
     "en_on_en": 26.74,
-    "en_on_fr": 58.49,
-    "en_on_tl": 70.59,
-    "en_on_nl": 61.41
+    "en_on_fr": Infinity,
+    "en_on_tl": Infinity,
+    "en_on_nl": Infinity
   },
   "test_generate": {
     "english_2_gram": "I amell1Gige omyo & he't",
